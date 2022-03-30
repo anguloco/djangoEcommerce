@@ -4,7 +4,7 @@
 <h3 align="center"> Be curious. Read widely. Try new things. — aaronsw</h3>
 
 
-### :mailbox: Let's connect	
+### :mailbox: Drop me a line
 [![Gmail Badge](https://img.shields.io/badge/-maxangulo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxngulo@gmail.com)](mailto:maxangulo@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
