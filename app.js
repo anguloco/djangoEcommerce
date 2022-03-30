@@ -6,7 +6,7 @@ const vm = new Vue({
     carrinho: [],
     msgAlert: "",
     activeAlert: false,
-    carrinhoAtivo: false
+    carrinhoAtivo: true
   },
   created() {
     this.getProdutos()
